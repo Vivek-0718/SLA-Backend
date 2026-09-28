@@ -38,5 +38,6 @@ class Main {
 
 		CashPayment payment3 = new CashPayment();
 		payment3.pay();
+
 	}
 }
