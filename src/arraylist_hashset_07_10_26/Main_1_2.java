@@ -1,4 +1,4 @@
-package arraylist_hashset_07_10_2026;
+package arraylist_hashset_07_10_26;
 
 import java.util.ArrayList;
 
@@ -25,7 +25,7 @@ public class Main_1_2 {
         }
         return topScorer;
     }
-    public static Student getStudent(int rollNo){
+    public static Student getStudent(int rollNo) throws NullPointerException{
         ArrayList<Student> studentList = displayStudents();
         for (Student student : studentList) {
             if (student.getRollNo() == rollNo) {

@@ -1,4 +1,4 @@
-package arraylist_hashset_07_10_2026;
+package arraylist_hashset_07_10_26;
 
 import java.util.Objects;
 

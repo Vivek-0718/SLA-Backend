@@ -1,9 +1,9 @@
-package arraylist_hashset_07_10_2026;
+package arraylist_hashset_07_10_26;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 
-import static arraylist_hashset_07_10_2026.Main_1_2.displayStudents;
+import static arraylist_hashset_07_10_26.Main_1_2.displayStudents;
 
 public class Main_3_4_5 {
     public static HashSet<Student> u_student_list() {
