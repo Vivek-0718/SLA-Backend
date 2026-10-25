@@ -1,4 +1,4 @@
-package jdbs_20_10_26;
+package jdbc_20_10_26;
 
 import java.sql.Connection;
 import java.sql.SQLException;
